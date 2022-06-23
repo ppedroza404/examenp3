@@ -10,7 +10,7 @@
            http://www.springframework.org/schema/context
            http://www.springframework.org/schema/context/spring-context-4.3.xsd">
 
-    <bean id="ConvertInterface" class="converter.Binario" />
+    <bean id="ConvertInterface" class="converter.Hexadecimal" />
 
 
     <bean id="MySpringWriterBeanWithDependency" class="mybean.MySprintConverterBean">
